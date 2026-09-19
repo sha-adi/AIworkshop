@@ -1,4 +1,4 @@
-Fancy Grep Head
+#Fancy Grep Head
 Section 1 — Command Description
 My Fancy Command is called fancyGrepHead.
 
