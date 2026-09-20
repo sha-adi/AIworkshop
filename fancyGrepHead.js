@@ -1,14 +1,4 @@
-/**
-workshopAi grep is my version of the Linux grep command.
 
-To run it, we need to use:
-
-node workshopAi.js <Pattern> <FileName>
-
-Example:
-
-node workshopAi.js "ERROR" server.log
-*/
 
 const fs = require('fs');
 const path = require('path');

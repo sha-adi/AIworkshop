@@ -1,27 +1,31 @@
-# Creating NodeJS and/or Web programs in Codio
+#Fancy Grep Head
+Section 1 — Command Description
+My Fancy Command is called fancyGrepHead.
 
-### Make a new file
-Use **File > New File...** or right-click in the file tree to create a new file. You can right-click in the file tree to rename or delete files.
+It combines the basic ideas of grep and head. It searches a file for a specific word or pattern and displays only the first two matching lines.
 
-As Codio detects which file is in focus, simply put your cursor into whichever code editor you want to preview and use the "Preview Current File".
+How to Run
+Use this command in the terminal:
 
-### View site or Current file
-Use the Preview button (with the "play" icon) to see a preview of the website.
+node fancyGrepHead.js <Pattern> <FileName>
 
-![](https://global.codio.com/platform/readme.resources/PreviewMenuWeb.png)
+For example:
 
-Use the drop-down arrow to the right of the "Preview Website" option to change the button to view the current file. You can also configure your preview button to open the preview as a new tab inside Codio, or as a new tab in your browser.
+node fancyGrepHead.js "ERROR" server.log
 
-### Running Node
-Use the Run button (with the "rocketship" icon) to start the current NodeJS file. To stop node, press ctrl + c in the terminal.
+The command will search the file for ERROR and display the first two lines that contain ERROR.
 
-### Debug your Code
-Use the "Debug Current NodeJS File" on the far right of the top menu bar to launch the debugger targeting the NodeJS file your cursor is in.
+The commands I combined were grep and head.
 
-Use your browser's built in Developer Tools to debug other web projects such as HTML/CSS.
+Section 2 — AI-Assisted Programming
+I asked AI questions about how the Linux commands work and how they could be implemented in Node.js.
 
-### Reconfigure your Panels for easier development
-Use the **View > Panels** menu on the top tool bar to segment your screen.
+AI helped me understand how process.argv is used to get command-line arguments and how fs.readFileSync() can be used to read a file. AI also helped me understand how to use arrays and loops to work with the lines in a file.
 
-Simply drag the tab of the file or terminal (the part with the name) you want to move into the new panel.
+For testing, I asked AI to suggest test scenarios and possible edge cases. AI suggested testing the command with multiple matching lines, no matching lines, and only one matching line. I ran these tests myself.
 
+I had to think independently when I modified my grep code to create the Fancy Command. I added a counter so that the program would only display the first two matching lines.
+
+One thing AI got wrong during the process was initially suggesting code that used a variable i even though my loop did not define an i variable. I noticed the problem and changed the logic to use my count variable instead.
+
+I was responsible for making the changes to my code and testing the final command myself.
