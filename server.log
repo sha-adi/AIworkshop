@@ -1,5 +1,100 @@
-INFO Server started
-ERROR Connection failed
-INFO User logged in
-ERROR File not found
-WARNING Low memory
+ERROR Failed operation at record 1
+ERROR Failed operation at record 2
+ERROR Failed operation at record 3
+ERROR Failed operation at record 4
+ERROR Failed operation at record 5
+ERROR Failed operation at record 6
+ERROR Failed operation at record 7
+ERROR Failed operation at record 8
+ERROR Failed operation at record 9
+ERROR Failed operation at record 10
+ERROR Failed operation at record 11
+ERROR Failed operation at record 12
+ERROR Failed operation at record 13
+ERROR Failed operation at record 14
+ERROR Failed operation at record 15
+ERROR Failed operation at record 16
+ERROR Failed operation at record 17
+ERROR Failed operation at record 18
+ERROR Failed operation at record 19
+ERROR Failed operation at record 20
+ERROR Failed operation at record 21
+ERROR Failed operation at record 22
+ERROR Failed operation at record 23
+INFO Processed record 24 successfully
+INFO Processed record 25 successfully
+INFO Processed record 26 successfully
+INFO Processed record 27 successfully
+INFO Processed record 28 successfully
+INFO Processed record 29 successfully
+INFO Processed record 30 successfully
+INFO Processed record 31 successfully
+INFO Processed record 32 successfully
+INFO Processed record 33 successfully
+INFO Processed record 34 successfully
+INFO Processed record 35 successfully
+INFO Processed record 36 successfully
+INFO Processed record 37 successfully
+INFO Processed record 38 successfully
+INFO Processed record 39 successfully
+INFO Processed record 40 successfully
+INFO Processed record 41 successfully
+INFO Processed record 42 successfully
+INFO Processed record 43 successfully
+INFO Processed record 44 successfully
+INFO Processed record 45 successfully
+INFO Processed record 46 successfully
+INFO Processed record 47 successfully
+INFO Processed record 48 successfully
+INFO Processed record 49 successfully
+INFO Processed record 50 successfully
+INFO Processed record 51 successfully
+INFO Processed record 52 successfully
+INFO Processed record 53 successfully
+INFO Processed record 54 successfully
+INFO Processed record 55 successfully
+INFO Processed record 56 successfully
+INFO Processed record 57 successfully
+INFO Processed record 58 successfully
+INFO Processed record 59 successfully
+INFO Processed record 60 successfully
+INFO Processed record 61 successfully
+INFO Processed record 62 successfully
+INFO Processed record 63 successfully
+INFO Processed record 64 successfully
+INFO Processed record 65 successfully
+INFO Processed record 66 successfully
+INFO Processed record 67 successfully
+INFO Processed record 68 successfully
+INFO Processed record 69 successfully
+INFO Processed record 70 successfully
+INFO Processed record 71 successfully
+INFO Processed record 72 successfully
+INFO Processed record 73 successfully
+INFO Processed record 74 successfully
+INFO Processed record 75 successfully
+INFO Processed record 76 successfully
+INFO Processed record 77 successfully
+INFO Processed record 78 successfully
+INFO Processed record 79 successfully
+INFO Processed record 80 successfully
+INFO Processed record 81 successfully
+INFO Processed record 82 successfully
+INFO Processed record 83 successfully
+INFO Processed record 84 successfully
+INFO Processed record 85 successfully
+INFO Processed record 86 successfully
+INFO Processed record 87 successfully
+INFO Processed record 88 successfully
+INFO Processed record 89 successfully
+INFO Processed record 90 successfully
+INFO Processed record 91 successfully
+INFO Processed record 92 successfully
+INFO Processed record 93 successfully
+INFO Processed record 94 successfully
+INFO Processed record 95 successfully
+INFO Processed record 96 successfully
+INFO Processed record 97 successfully
+INFO Processed record 98 successfully
+INFO Processed record 99 successfully
+INFO Processed record 100 successfully
